@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raveeru.github.io/web-portal-zcw-com/sitemap.xml
